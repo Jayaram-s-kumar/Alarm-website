@@ -7,3 +7,23 @@
     margin-top: 50px;
 
 }
+
+.allalarmspage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.addnew{
+    width: 80px;
+    height: 30px;
+    background: #d7e4f8;
+    border: none;
+    color: #105892;
+    font-weight: bold;
+    font-family: cursive;
+    border-radius: 20px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+}

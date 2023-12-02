@@ -1,8 +1,10 @@
-import Allalarms from "./Pages/Allalarms/Allalarms";
+// import Allalarms from "./Pages/Allalarms/Allalarms";
+import Newalarm from "./Pages/Newalarm/Newalarm";
 function App() {
   return (
     <div className="App">
-     <Allalarms/>
+     {/* <Allalarms/> */}
+     <Newalarm />
     </div>
   );
 }
